@@ -9,7 +9,7 @@ WiFiManager wifiManager;
 
 #include <IFTTTWebhook.h>
 #include <WiFiClientSecure.h>
-#define IFTTT_API_KEY "dsUmSj2OHYHVND5G8QTO2r"
+#define IFTTT_API_KEY "your API key here"
 #define IFTTT_EVENT_NAME "button_pressed"
 #define IFTTT_FINGERPRINT "AA:75:CB:41:2E:D5:F9:97:FF:5D:A0:8B:7D:AC:12:21:08:4B:00:8C"   //Actualizar en https://www.grc.com/fingerprints.htm
 
